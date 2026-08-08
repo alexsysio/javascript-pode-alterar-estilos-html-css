@@ -1,8 +1,4 @@
 ### HTML JavaScript
-<img width="1920" height="1032" alt="javascript-pode-alterar-o-estilo-de-um-elemento-html" src="https://github.com/user-attachments/assets/e9c4464d-b19d-4961-877b-55d2a26a258b" />
-
-
-
 
 <a href="https://github.com/user-attachments/assets/db674758-3bd7-4149-b026-870b629074bc">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/db674758-3bd7-4149-b026-870b629074bc" />
