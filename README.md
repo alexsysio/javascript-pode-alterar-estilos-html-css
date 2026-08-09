@@ -1,4 +1,4 @@
-### HTML JavaScript
+### HTML JavaScript | JavaScript pode alterar estilos html css
 
 <a href="https://github.com/user-attachments/assets/db674758-3bd7-4149-b026-870b629074bc">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/db674758-3bd7-4149-b026-870b629074bc" />
@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### O que o JavaScript pode fazer?
+### O que o JavaScript pode fazer? | JavaScript pode alterar estilos html css
 
 <a href="https://github.com/user-attachments/assets/a50c1582-c225-4218-8e64-fa638610c2ee">
   <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/a50c1582-c225-4218-8e64-fa638610c2ee" />
