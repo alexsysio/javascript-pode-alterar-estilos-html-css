@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### JavaScript pode alterar o estilo de um elemento HTML
+### Quando o botão clique em mim! for clicado, a função é chamada!
 
 <a href="https://github.com/user-attachments/assets/b3a2a10f-41c3-4231-b50e-41e3512b52f4">
   <img width="100%" alt="elemento-html-alterado" src="https://github.com/user-attachments/assets/b3a2a10f-41c3-4231-b50e-41e3512b52f4" />
