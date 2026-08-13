@@ -1,6 +1,7 @@
 ### O JavaScript pode alterar o estilo de um elemento HTML
 
 &nbsp;
+&nbsp;
 
 <a href="https://github.com/user-attachments/assets/a34c3c72-556f-4f4d-87b2-31b4508c406b">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/a34c3c72-556f-4f4d-87b2-31b4508c406b"/>
@@ -10,6 +11,7 @@
 
 ### Demonstração
 
+&nbsp;
 &nbsp;
 
 <a href="https://github.com/user-attachments/assets/c7e39546-5990-4363-948a-50bf1551bc70">
