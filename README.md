@@ -1,23 +1,24 @@
-### HTML JavaScript | JavaScript pode alterar estilos html css
+### JavaScript pode alterar estilos html css
 
-<a href="https://github.com/user-attachments/assets/db674758-3bd7-4149-b026-870b629074bc">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/db674758-3bd7-4149-b026-870b629074bc" />
+<a href="https://github.com/user-attachments/assets/a34c3c72-556f-4f4d-87b2-31b4508c406b">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/a34c3c72-556f-4f4d-87b2-31b4508c406b"/>
 </a>
 
 &nbsp;
 
-### O que o JavaScript pode fazer? | JavaScript pode alterar estilos html css
+### <p id="demo">O JavaScript pode alterar o estilo de um elemento HTML.</p>
 
-<a href="https://github.com/user-attachments/assets/a50c1582-c225-4218-8e64-fa638610c2ee">
-  <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/a50c1582-c225-4218-8e64-fa638610c2ee" />
+<a href="https://github.com/user-attachments/assets/c7e39546-5990-4363-948a-50bf1551bc70">
+  <img width="100%" alt="elemento-html" src="https://github.com/user-attachments/assets/c7e39546-5990-4363-948a-50bf1551bc70" />
 </a>
 
 &nbsp;
 
 ### JavaScript pode alterar o estilo de um elemento HTML
+<img width="960" height="1032" alt="elemento-html-alterado" src="https://github.com/user-attachments/assets/b3a2a10f-41c3-4231-b50e-41e3512b52f4" />
 
-<a href="https://github.com/user-attachments/assets/e9c4464d-b19d-4961-877b-55d2a26a258b">
-  <img width="100%" alt="javascript-pode-alterar-o-estilo-de-um-elemento-html" src="https://github.com/user-attachments/assets/e9c4464d-b19d-4961-877b-55d2a26a258b" />
+<a href="https://github.com/user-attachments/assets/b3a2a10f-41c3-4231-b50e-41e3512b52f4">
+  <img width="100%" alt="elemento-html-alterado" src="https://github.com/user-attachments/assets/b3a2a10f-41c3-4231-b50e-41e3512b52f4" />
 </a>
 
 &nbsp;
